@@ -38,9 +38,9 @@
 	<key>PayloadDescription</key>
 	<string>Adds the Cloudflare DNS to Big Sur and iOS 14 based systems</string>
 	<key>PayloadDisplayName</key>
-	<string>Cloudflare DoH w/ Malware-Blocking</string>
+	<string>Cloudflare DoH for Malware-Blocking</string>
 	<key>PayloadIdentifier</key>
-	<string>com.paulmillr.apple-dns</string>
+	<string>com.cloudflare-dns-security.apple-dns</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
