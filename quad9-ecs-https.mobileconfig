@@ -22,7 +22,7 @@
 			<key>PayloadDescription</key>
 			<string>Configures device to use Quad9 Encrypted DNS over HTTPS</string>
 			<key>PayloadDisplayName</key>
-			<string>Quad9 DoH supporting ECS</string>
+			<string>Quad9 DNS-over-HTTPS</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.dnsSettings.managed.1a93b54b-8541-4536-8302-c08159ca9184</string>
 			<key>PayloadType</key>
@@ -38,7 +38,7 @@
 	<key>PayloadDescription</key>
 	<string>Adds the Quad9 DNS to Big Sur and iOS 14 based systems</string>
 	<key>PayloadDisplayName</key>
-	<string>Quad9 DoH</string>
+	<string>Quad9 DoH supporting ECS</string>
 	<key>PayloadIdentifier</key>
 	<string>com.paulmillr.apple-dns</string>
 	<key>PayloadRemovalDisallowed</key>
