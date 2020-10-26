@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerURL</key>
+				<string>https://dns.hinet.net/dns-query</string>
+			</dict>
+			<key>Name</key>
+			<string>HiNet DNS over HTTPS</string>
+			<key>PayloadDescription</key>
+			<string>Configures device to use HiNet DNS over HTTPS.</string>
+			<key>PayloadDisplayName</key>
+			<string>HiNet DoH</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.dnsSettings.managed.4C7773C7-542F-4777-983C-8BE633C66B4E</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>4C7773C7-542F-4777-983C-8BE633C66B4E</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Adds HiNet DNS over HTTPS to Big Sur and iOS 14 or newer systems</string>
+	<key>PayloadDisplayName</key>
+	<string>HiNet DoH</string>
+	<key>PayloadIdentifier</key>
+	<string>AA35D6FA-CDB9-411E-9F08-802C18964157</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>282BE73E-CA63-44B6-BAF8-473BC65663E7</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
